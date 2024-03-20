@@ -1,19 +1,19 @@
 let images = [{
-  url: "../images/png/project1.png",
+  url: "./images/png/project1.png",
   title: "Rostov-on-Don, Admiral",
   city: "Rostov-on-Don LCD Admiral",
   area: "81 m2",
   time: "3,5 months",
   cost: "Upon request"
 }, {
-  url: "../images/png/project2.png",
+  url: "./images/png/project2.png",
   title: "Sochi Thieves",
   city: "Sochi Thieves",
   area: "105 m2",
   time: "4 months",
   cost: "Upon request"
 }, {
-  url: "../images/png/project3.png",
+  url: "./images/png/project3.png",
   title: "Rostov-on-Don Patriotic",
   city: "Rostov-on-Don Patriotic",
   area: "93 m2",
